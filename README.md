@@ -17,4 +17,5 @@ modulation-playground
       - [CD4046 integrated FM modulator circuit. - YouTube](https://www.youtube.com/watch?v=nwqyQWsR_lo)
       - [CD4046 Explained and Example Circuits (Phase-Locked Loop) | ElecCircuit.com](https://www.eleccircuit.com/cd4046-datasheet-phase-locked-loop/)
       - [CD4046 Voltage Controlled Oscillator and Envelope Generator Experiments - YouTube](https://www.youtube.com/watch?v=OBKaVw5XKpU)
+      - [FM Demodulator Circuit w SN74LV4046 PLL - YouTube](https://www.youtube.com/watch?v=4hmJLjvhTf4)
     - NE565
